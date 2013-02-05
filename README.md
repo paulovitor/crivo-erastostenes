@@ -1,7 +1,8 @@
-tdd-jasmine
+Crivo de Erastóstenes
 ===========
 
-Dojo de 31-01-2013 para implementar Crivo de Eratóstenes (sieve of Eratosthenes).
+Dojo de 31/01/2013
+Implementação do algoritmo "Crivo de Eratóstenes" (sieve of Eratosthenes), para recuperar lista de números primos.
 Uso do framework jasmine em javascript para realizar TDD no algoritmo. 
 
 
